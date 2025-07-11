@@ -91,11 +91,14 @@ This project effectively utilizes and reinforces several fundamental Python prog
 - **Logic & Control Flow**:
 
 **a**. `while Loops`: For maintaining the application's running state.
+
 **b**. `if/elif/else Statements`: For decision-making based on user choices and list conditions.
-c. `for Loops`: For iterating over the `to_do_items` list to display tasks.
+
+**c**. `for Loops`: For iterating over the `to_do_items` list to display tasks.
 - **Functions/Methods**:
 
 **a**. Built-in functions like `len()`, `int()`, `enumerate()`.
+
 **b**. List methods like append() and pop().
 - **String Formatting**: Using f-strings (`f"..."`) for clear and dynamic messages.
 - **Error Handling**: Basic `try-except` blocks to manage potential runtime errors (like `ValueError` for invalid input) and conditional checks for `IndexError`.
