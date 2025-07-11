@@ -1,4 +1,4 @@
-# Basic To-Do List App Documentation
+# Basic To-Do List App
 
 ## Project Overview
 This is a simple console-based To-Do List application built in Python. It allows users to manage their daily tasks by providing options to add new tasks, view existing tasks, and remove completed or unwanted tasks. The application runs in a continuous loop until the user decides to exit.
